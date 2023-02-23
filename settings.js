@@ -20,11 +20,11 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.owner = ['Your Number']  //without '+' eg 254780986757
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = 'Your Name'
-global.region = 'Nairobi, Nairobi, Kenya'
+global.owner = ['254113200483','254 111531066']  //without '+' eg 254780986757
+global.premium = ['254113200483','254 111531066']
+global.ownernomer = '254113200483','254 111531066'
+global.ownername = '⎈🅐︎𝗰𝗲✞︎𝐉𝐎𝐁𝐁𝐈𝐄☫'
+global.region = 'Nakuru, Naks, Kenya'
 global.sessionName = 'session'
 
     global.limitawal = {
